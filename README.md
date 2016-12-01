@@ -1,3 +1,3 @@
 # Python-CI-Testing
 
-Testing travis-ci
+[![Build Status](https://travis-ci.org/jasemj/Python-CI-Testing.svg)](https://travis-ci.org/jasemj/Python-CI-Testing)
